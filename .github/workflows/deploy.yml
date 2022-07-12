@@ -24,4 +24,5 @@ jobs:
           script: |
             cd server
             git pull 
-            
+            pm2 stop index.js
+            pm2 start index.js
