@@ -1,2 +1,2 @@
-cd /home/ubuntu/server-lecture
+cd /home/ubuntu/server
 git pull
